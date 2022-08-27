@@ -8,3 +8,5 @@ Here is a list of projects I have made :
 
 - Personal website : [tamanoir.net](https://tamanoir.net)
 - Institut Notre-Dame website : [ind78.fr](https://www.ind78.fr/)
+- 2048 clone : [2048 clone](https://letamanoir.github.io/2048-clone)
+- wordle clone : [wordle clone](https://letamanoir.github.io/wordle-clone)
