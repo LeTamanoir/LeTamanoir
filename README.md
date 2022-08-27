@@ -2,7 +2,7 @@
 
 My name is **Martin Saldinger**. I am passionate about computer science, more precisely  **web development** and **pentesting**. <br>
 In my free-time I like to code and practice my hacking skills by solving CTFs. <br>
-I'm currently studying at **Epitech Paris** in the international track program.
+I'm currently studying at **Epitech Paris** in the International Track program.
 
 Here is a list of projects I have made : 
 
